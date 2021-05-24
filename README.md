@@ -5,7 +5,7 @@ A Basic Generative Adversarial Network model for image generation, I used hand w
 Functions:
           
           >Tensorflow functional API
-          >Generator and Discrimination with Binary CrossEntropy
+          >Generator and Discriminator with Binary CrossEntropy
           >Gradient Tape for record gradient value
           >Tensorflow training loops
 
